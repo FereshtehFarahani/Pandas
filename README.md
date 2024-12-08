@@ -9,5 +9,3 @@ This repository showcases my skills in **data processing** using the **Pandas** 
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-
